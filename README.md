@@ -1,6 +1,6 @@
-# React Calculator
+# React modern Calculator
 
-A calculator project built with React.
+<!-- A calculator project built with React.
 
 ![Calculator Screenshot](https://i.imgur.com/O3CKScM.gif)
 
@@ -30,4 +30,4 @@ Any feature requests and pull requests are welcome!
 
 ## License
 
-The project is under [MIT license](https://choosealicense.com/licenses/mit/).
+The project is under [MIT license](https://choosealicense.com/licenses/mit/). -->
