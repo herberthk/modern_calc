@@ -1,8 +1,8 @@
 # React modern Calculator
 
-<!-- A calculator project built with React.
+## A calculator project built with React.
 
-![Calculator Screenshot](https://i.imgur.com/O3CKScM.gif)
+![Calculator Screenshot](/calc.png)
 
 ## Features
 
@@ -16,13 +16,13 @@
 
 ## Installation
 
-1. `git clone https://github.com/madzadev/calculator.git`
+1. `git clone https://github.com/herberthk/modern_calc.git`
 
-2. `cd calculator`
+2. `cd modern_calc.git`
 
-3. `npm install`
+3. `yarn install`
 
-4. `npm start`
+4. `yarn start`
 
 ## Contributions
 
@@ -30,4 +30,4 @@ Any feature requests and pull requests are welcome!
 
 ## License
 
-The project is under [MIT license](https://choosealicense.com/licenses/mit/). -->
+The project is under [MIT license](https://choosealicense.com/licenses/mit/)
