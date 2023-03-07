@@ -1,3 +1,5 @@
+[![Node build and deploy](https://github.com/herberthk/modern_calc/actions/workflows/firebase-hosting-merge.yml/badge.svg)](https://github.com/herberthk/modern_calc/actions/workflows/firebase-hosting-merge.yml)
+<!-- [![Node build and deploy](https://github.com/herberthk/modern_calc/actions/workflows/firebase-hosting-pull-request.yml/badge.svg)](https://github.com/herberthk/modern_calc/actions/workflows/firebase-hosting-pull-request.yml) -->
 # React modern Calculator
 
 ## A calculator project built with React.
